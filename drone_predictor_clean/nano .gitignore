@@ -1,0 +1,16 @@
+# ROS build
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data
+*.csv
+*.mcap
+
+# Editor
+.vscode/
+.idea/
